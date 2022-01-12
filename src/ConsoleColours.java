@@ -133,7 +133,7 @@ public class ConsoleColours {
         return "\033[48;5;" + Math.abs(nr)+"m";
 
     }
-    
+
 }
 
 
